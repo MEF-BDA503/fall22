@@ -3,8 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Fall 2022"
-  subtitle: "MEF BDA 503"
+  title: "MEF BDA 503 Fall 2022"
   navbar:
     left:
       - href: index.qmd

@@ -1,5 +1,28 @@
 ---
 title: "BDA 503 Fall 2022"
+toc: false
 ---
 
-Welcome to MEF BDA 503 Fall 2022 page. Coming soon...
+# Week 1 (Sep 21, 2022)
+
+Coming soon...
+
+# Week 0
+
+This course benefits from DataCamp for the Classroom program. See details [here](https://www.datacamp.com/groups/education?ref=mefbda503).
+
+Some light reading (blog posts)
+
+- [About recent developments with RStudio (Posit) and R's future (2022)](https://medium.com/berk-orbay/convergence-of-data-science-languages-ff2214665f3)
+- [Student projects of previous years (2020)](https://medium.com/berk-orbay/student-data-analysis-projects-with-r-729a8529d5a8)
+- [How this course is structured in previous years (2018)](https://medium.com/@berk.orbay/how-to-teach-an-awesome-data-analysis-course-922f5e5651c0)
+- [Instructor's view on R (2017)](https://medium.com/yes-r-can/why-r-stats-is-the-best-2c09d77de25b)
+
+This semester course webpage went under a significant refurbishment. Course archive is in another repository.
+
+- [Course Archive](https://mef-bda503.github.io/archive/)
+
+
+
+
+
