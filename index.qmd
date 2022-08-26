@@ -7,6 +7,8 @@ toc: false
 
 Coming soon...
 
+<!-- + [Introduction to BDA 503](./intro.html) -->
+
 # Week 0
 
 This course benefits from DataCamp for the Classroom program. See details [here](https://www.datacamp.com/groups/education?ref=mefbda503).

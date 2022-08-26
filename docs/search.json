@@ -12,5 +12,306 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "rintro.html#tentative-schedule",
+    "href": "rintro.html#tentative-schedule",
+    "title": "MEF BDA 503",
+    "section": "Tentative Schedule",
+    "text": "Tentative Schedule\nSchedule may change with progress. We can have some bonus material to cover.\nWeek 1: Setup (rmarkdown) and Base R\nWeeks 2-3: Data Processing, Visualization and Reporting (dplyr + ggplot2)\nWeek 4: Interactive Analysis (shiny) and Packaging\nWeek 5: Data Processing, Visualization and Reporting - 2\nWeek 6: R & Python Interoperability\nWeek 7: Recap, Presentations and Final (Take Home)"
+  },
+  {
+    "objectID": "rintro.html#what-is-this-course-about",
+    "href": "rintro.html#what-is-this-course-about",
+    "title": "MEF BDA 503",
+    "section": "What is this course about?",
+    "text": "What is this course about?\nThis course has a very simple objective: To teach you the ropes of exploratory data analysis pipeline.\nMainly the stages of the pipeline are,\n\nImporting raw data\nPreprocessing data to prepare for analysis\nExploring and analyzing data to find valuable information\nCommunicating findings with verbal reporting, visualization and interactive tools\nMaking everything reproducible\n\nCheck similar courses from this link."
+  },
+  {
+    "objectID": "rintro.html#introduction",
+    "href": "rintro.html#introduction",
+    "title": "MEF BDA 503",
+    "section": "Introduction",
+    "text": "Introduction\nWhat is this course about?\nThis course has a very simple objective: To teach you the ropes of exploratory data analysis pipeline.\nMainly the stages of the pipeline are,\n\nImporting raw data\nPreprocessing data to prepare for analysis\nExploring and analyzing data to find valuable information\nCommunicating findings with verbal reporting, visualization and interactive tools\nMaking everything reproducible\n\nCheck similar courses from this link."
+  },
+  {
+    "objectID": "rintro.html#section",
+    "href": "rintro.html#section",
+    "title": "MEF BDA 503",
+    "section": "",
+    "text": "What is this course about?\nThis course has a very simple objective: To teach you the ropes of exploratory data analysis pipeline.\nMainly the stages of the pipeline are,\n\nImporting raw data\nPreprocessing data to prepare for analysis\nExploring and analyzing data to find valuable information\nCommunicating findings with verbal reporting, visualization and interactive tools\nMaking everything reproducible\n\nCheck similar courses from this link."
+  },
+  {
+    "objectID": "rintro.html#what-are-some-examples-of-exploratory-data-analysis",
+    "href": "rintro.html#what-are-some-examples-of-exploratory-data-analysis",
+    "title": "MEF BDA 503",
+    "section": "What are some examples of exploratory data analysis?",
+    "text": "What are some examples of exploratory data analysis?\nThese examples are from assignments and projects of previous years’ students.\n\nAutomotive sales data: Total sales per brand per year, domestic auto shares per brand, top sellers of 2019, Mercedes vs Volkswagen\nCredit card spending analysis: Credit Card and Debit Card Transaction Amount, Credit Card Transaction Amount by Sector, Credit Card and Debit Card Transaction Amount for Market\nBIST 30 stock analysis\nTurkish Super League analysis\nGlobal Terrorism Database analysis\n\nYou can find more examples in this post. For some short analyses you can check out #tidytuesday hashtag in Twitter and Github Repo (see this bonus also)."
+  },
+  {
+    "objectID": "rintro.html#what-is-reproducibility",
+    "href": "rintro.html#what-is-reproducibility",
+    "title": "MEF BDA 503",
+    "section": "What is reproducibility?",
+    "text": "What is reproducibility?\nIn simple terms, the ability to reproduce result and analysis without much effort.\nA fully reproducible analysis should include raw data and clear methodology (also, if possible, code) behind the analysis.\nThere are consequences if a study is not reproducible. Read more about reproducibility crisis here.\nSee a webinar here about how to create reproducible reports with R Markdown. We will learn basics of R Markdown as soon as possible and do similar stuff.\nAdditionally, if you can generalize your templates, you can reproduce the study for different data sets in the same topic. It can be financial reports for companies, weather reports for cities etc. See an example here about elections (in Turkish) where each city and county’s reports are generated using a single template."
+  },
+  {
+    "objectID": "rintro.html#which-tools-are-we-going-to-use-programs",
+    "href": "rintro.html#which-tools-are-we-going-to-use-programs",
+    "title": "MEF BDA 503",
+    "section": "Which tools are we going to use? (Programs)",
+    "text": "Which tools are we going to use? (Programs)\nDownload checklist is below. Everything is completely free.\n\nR Programming Language to code (we will also install packages)\nRStudio Desktop as IDE\npandoc for document conversion\nLaTeX for PDF documents (we will not cover LaTeX notation)\n\nAlternatively you can use tiny tex\n\nGithub Desktop for codebase updates (you can use alternatives)\n\nYou will need a Github account\n\nSlack for live communication (you can also use the web client)\n\nOptional and advanced\n\nDocker for containerization (if time permits)"
+  },
+  {
+    "objectID": "rintro.html#which-tools-are-we-going-to-use-packages",
+    "href": "rintro.html#which-tools-are-we-going-to-use-packages",
+    "title": "MEF BDA 503",
+    "section": "Which tools are we going to use? (Packages)",
+    "text": "Which tools are we going to use? (Packages)\nPackages are code collections which can be needed for general purpose or specific needs. You can also think of them as modules.\nR has many useful packages. Our course depends on several main packages and package collections.\n\ntidyverse is a very useful package collection\n\ndplyr for data manipulation\nggplot2 for data visualization\n\nRMarkdown for document creation\n\nWe will also use xaringan package for presentations.\nAlternatively you can use Quarto for both document creation and presentations. (Both your course page and this presentation are created with Quarto)\n\nshiny for interactive analysis\n\nPlus we will be using many other packages either as dependency (e.g. tibble) or as supporting packages (e.g. lubridate) during the course."
+  },
+  {
+    "objectID": "rintro.html#packages-101---a-short-introduction",
+    "href": "rintro.html#packages-101---a-short-introduction",
+    "title": "MEF BDA 503",
+    "section": "Packages 101 - A short introduction",
+    "text": "Packages 101 - A short introduction\nWe install packages to make them available for our use with install.packages command. You are effectively downloading the package. Remember, you need to install only once!\n\n\n\nOnce installed, we can make use of (load) packages with library command (You can also use require). Then we can use everything inside that package.\n\n\n\nAdvanced: There is an alternative way to use functions in packages. Once installed, you can directly refer to them using ::.\n\n\n\np.s: You can learn more about packages from this tutorial."
+  },
+  {
+    "objectID": "rintro.html#datacamp-and-supplementary-online-learning",
+    "href": "rintro.html#datacamp-and-supplementary-online-learning",
+    "title": "MEF BDA 503",
+    "section": "Datacamp and Supplementary Online Learning",
+    "text": "Datacamp and Supplementary Online Learning\nWe are going to make use of Datacamp courses throughout the semester.\nDatacamp for Education provides free access to Datacamp resources for 6 months. You are going to get your invitations. Datacamp usually charges monthly fees but you do not need to pay anything since you are a student of this course.\nSince this semester is completely online, we will rely more on online sources. You will have timed assignments on Datacamp but it will not affect your grade.\nOptionally you are encouraged to learn from other sources. A list will be given in a separate slide."
+  },
+  {
+    "objectID": "rintro.html#github-github-classroom",
+    "href": "rintro.html#github-github-classroom",
+    "title": "MEF BDA 503",
+    "section": "Github & Github Classroom",
+    "text": "Github & Github Classroom\nWe are going to use Github Classroom as the main assignment submission platform.\nAll students are going to have two repositories (where you will submit the code files) + Individual repository for their assignments + Group repository for their group assignments and group project\nInvitation links will be provided by the instructor to student email addresses.\nFirst assignment will be to set up your Github Pages. You can check the tutorial in the link (choose Project Site) but Github Classroom will handle the initial setup.\nDon’t forget to download Github Desktop. If you use Linux, try shiftkey releases.\nIMPORTANT (optional): It is highly recommended to get your Github Student Pack"
+  },
+  {
+    "objectID": "rintro.html#markdown-and-r-markdown",
+    "href": "rintro.html#markdown-and-r-markdown",
+    "title": "MEF BDA 503",
+    "section": "Markdown (and R Markdown)",
+    "text": "Markdown (and R Markdown)\nMarkdown is a special and minimal syntax “language” which is also used in R Markdown documents.\nAlthough there are some changes between different types of Markdown syntax Github’s guide is a good start. It is very quick and easy to learn (takes ~5 min to get the basics and you can always use a cheatsheet).\nHere are some markdown editors as playground: Stackedit, Dillinger, jbt\nR Markdown is essentially Markdown + R Code. You can start learning from here.\n\n\nImportant Update - Quarto (2022)\n\nIn July 2022, RStudio announced that they will change their name to Posit starting from November 2022. They are going to be more inclusive towards Python.\nThey announced Python Shiny (still in Alpha phase).\nThey also announced Quarto will supersede RMarkdown. Announcement came a little late, so there are no lecture notes about Quarto. However, a list of sources and quality guides will be included in a separate document.\nUltimately these updates are to your benefit. You will be able to integrate Python and R as seamlessly as possible. Also, some of what you learned in this class will be applicable to Python."
+  },
+  {
+    "objectID": "rintro.html#setup-checklist",
+    "href": "rintro.html#setup-checklist",
+    "title": "MEF BDA 503",
+    "section": "Setup Checklist",
+    "text": "Setup Checklist\nIt is actually not very complicated :) Here is a checklist to get you started.\n\nDownload required programs and make sure they are working.\nOpen a Github account.\nOpen a Slack account.\nWhen it comes, accept Datacamp invitation.\nWhen it comes, accept Github Classroom invitation."
+  },
+  {
+    "objectID": "rintro.html#course-expectations",
+    "href": "rintro.html#course-expectations",
+    "title": "MEF BDA 503",
+    "section": "Course Expectations",
+    "text": "Course Expectations\nMinimal learning expectations from this course are very clearly defined.\n\nFair understanding of data manipulation (using dplyr) and data visualization (using ggplot2).\nAbility to analyze data and communicate findings with clear and coherent reporting (using rmarkdown).\nAbility to create interactive analysis systems (using shiny).\nAbility to deploy and publish (using Github Pages and shinyapps.io).\nBasic understanding of Python & R interoperability.\n\nIt is up to the student to extend their learning experience. Both R and the data science field have much to offer. For instance, there are topics like cloud computing, package making/management, containerization, advanced modelling, process automation. There are also numerous interesting R packages making analytics life easier."
+  },
+  {
+    "objectID": "rintro.html#week-course-schedule-1",
+    "href": "rintro.html#week-course-schedule-1",
+    "title": "MEF BDA 503",
+    "section": "7-week Course Schedule",
+    "text": "7-week Course Schedule\nWe have lectures every second Wednesday between 18:30-21:30. Times may vary occasionally.\nTentative Schedule\nSchedule may change with progress. We can have some bonus material to cover.\nWeek 1: Setup (rmarkdown) and Base R\nWeeks 2-3: Data Processing, Visualization and Reporting (dplyr + ggplot2)\nWeek 4: Interactive Analysis (shiny) and Packaging\nWeek 5: Data Processing, Visualization and Reporting - 2\nWeek 6: R & Python Interoperability\nWeek 7: Recap, Presentations and Final (Take Home)"
+  },
+  {
+    "objectID": "rintro.html#online-vs-physical-teaching",
+    "href": "rintro.html#online-vs-physical-teaching",
+    "title": "MEF BDA 503",
+    "section": "Online vs Physical Teaching",
+    "text": "Online vs Physical Teaching\nOur course will be exclusively online. Even though it looks like this course is unaffected by the medium, there are some challenges to consider.\n\nIn the classroom, the instructor can use a screen to present the lecture and meanwhile ask the students to follow the code on their computers. In online teaching, you have a single screen to watch the lecture and code at the same time. Probably at least some students do not have an extra screen.\nIn the classroom the instructor can directly intervene with the student’s progress. If the student fails to run a code because of a syntax error (e.g. parentheses mismatch), the instructor can easily correct the student.\nIn the classroom students can help each other and learn from each other. In online, it is not that convenient.\n\nSo, as in any experimental setting, there will be problems. Don’t worry though, everything will be alright!"
+  },
+  {
+    "objectID": "rintro.html#execution-of-lectures",
+    "href": "rintro.html#execution-of-lectures",
+    "title": "MEF BDA 503",
+    "section": "Execution of Lectures",
+    "text": "Execution of Lectures\n\nAt start, instructor will deliver a short lecture (15-30 mins) either live or from a recorded video.\nMost communication will be on Slack (and perhaps Zoom 1-to-1) for “live support”. It means questions of any kind can be asked on Slack.\nThere might be “tasks” at each lecture to be finished within lecture hours. Most of the time it will be self-learning from a source and exercises to be finished.\nMost 3-hour lectures will be block, ending at 21:30. Since most of it will be spent with self-learning, students can arrange their own breaks.\nNo regular office hours. We will use Slack.\nWe may have guests from both academia and professional domains about data science related practices in real life problems. Each guest lecture is expected to take between 15 mins and 1 hour."
+  },
+  {
+    "objectID": "rintro.html#grading",
+    "href": "rintro.html#grading",
+    "title": "MEF BDA 503",
+    "section": "Grading",
+    "text": "Grading\n\nIn-class exercises & Homework: 30%\n\nThere will be a number of graded exercises and homeworks. No individual weights, they will be determined as a whole\nAll homeworks should be on your public Github Pages and explicitly linked from your main Progress Journal. Otherwise, they will not be graded.\n\nGroup Project: 30%\nTake home final: 40%\nBonuses!"
+  },
+  {
+    "objectID": "rintro.html#bonus-topics-idea",
+    "href": "rintro.html#bonus-topics-idea",
+    "title": "MEF BDA 503",
+    "section": "Bonus Topics (Idea)",
+    "text": "Bonus Topics (Idea)\nThis slide is just an idea. It is not official. Following packages are very useful in a variety of applications. Unfortunately there is not enough time to cover them, perhaps, save a few. Aim is to improve learning by teaching.\nStudents are encouraged to design a “mini course” (a video of max 5-min, written tutorial with code and example data) and publish in their own repositories.\n\nreticulate\ngolem\nrvest\nshinyMobile\ntidymodels \ntidytext + rtweet   \ndrake\nkeras \n\nSee previous examples from their Group Progress Journals."
+  },
+  {
+    "objectID": "rintro.html#groups-and-group-project",
+    "href": "rintro.html#groups-and-group-project",
+    "title": "MEF BDA 503",
+    "section": "Groups and Group Project",
+    "text": "Groups and Group Project\n\nAs a group project you will be asked to do a complete data analysis on a relevant real-life data set. Check previous examples.\nGroups should be about 4 to 5 students. Any fewer or more will not be allowed.\nYou need to form your groups next lecture, 18:30. For those without a group or groups without members, there will be a random assignment.\nOnce settled, you cannot change your group under any circumstances.\nThere will be group assignments as well."
+  },
+  {
+    "objectID": "rintro.html#external-resources-streams",
+    "href": "rintro.html#external-resources-streams",
+    "title": "MEF BDA 503",
+    "section": "External Resources (Streams)",
+    "text": "External Resources (Streams)\nThere are lots of fantastic resources out there. I suggest signing up for R newsletters and following people on Twitter. Static sources are on course webpage.\n\nRViews Newsletter\nr-bloggers\nR Weekly\nTidy Tuesday Hashtag\nTidy Explained\nOne R Tip a Day\n\nplus lots of people to follow on Twitter."
+  },
+  {
+    "objectID": "rintro.html#course-ethics",
+    "href": "rintro.html#course-ethics",
+    "title": "MEF BDA 503",
+    "section": "Course “Ethics”",
+    "text": "Course “Ethics”\nThese are very simple rules to follow to ensure a fair and productive course experience.\n\nPlease do collaborate with your classmates.\nPlease do check internet and other sources for solutions. You may occasionally come across exact solutions to some homeworks and exercises but it is up to you to learn or simply paste and pass.\nPlease do not blatantly copy paste stuff and always provide references to your sources (with links). It is completely OK to “oh I found this amazing plotting code on this link and using it for my analysis”. It is actually very desirable.\n\nBut it is not OK to “Here is a complete copy paste of some guy’s analysis from Kaggle as my assignment”. It is a direct F and a report to the department.\n\nPlease do not submit the same as your classmate verbatim. Write your own code even if you peek."
+  },
+  {
+    "objectID": "rintro.html#summary",
+    "href": "rintro.html#summary",
+    "title": "MEF BDA 503",
+    "section": "Summary",
+    "text": "Summary\n\nThis course is about end-to-end analytics and reproducibility.\nComplete your setup (install programs and packages, sign up for services -remember, everything is free!-).\nBuild your Github Pages webpage. Learn how to push to your repository.\nFinish your first assignment by next week.\nDetermine your group and email to instructor (group name + members) as soon as possible."
+  },
+  {
+    "objectID": "rintro.html#course-medium-online-lectures",
+    "href": "rintro.html#course-medium-online-lectures",
+    "title": "MEF BDA 503",
+    "section": "Course Medium: Online Lectures",
+    "text": "Course Medium: Online Lectures\n\nAt start, instructor will deliver a short lecture (15-30 mins) either live or from a recorded video.\nMost communication will be on Slack (and perhaps Google Meet 1-to-1) for “live support”. It means questions of any kind can be asked on Slack.\nThere might be “tasks” at each lecture to be finished within lecture hours. Most of the time it will be self-learning from a source and exercises to be finished.\nMost 3-hour lectures will be block, ending at 21:30. Since most of it will be spent with self-learning, students can arrange their own breaks.\nNo regular office hours. We will use Slack.\nWe may have guests from both academia and professional domains about data science related practices in real life problems."
+  },
+  {
+    "objectID": "intro.html#what-is-this-course-about",
+    "href": "intro.html#what-is-this-course-about",
+    "title": "MEF BDA 503",
+    "section": "What is this course about?",
+    "text": "What is this course about?\nThis course has a very simple objective: To teach you the ropes of exploratory data analysis pipeline.\nMainly the stages of the pipeline are,\n\nImporting raw data\nPreprocessing data to prepare for analysis\nExploring and analyzing data to find valuable information\nCommunicating findings with verbal reporting, visualization and interactive tools\nMaking everything reproducible\n\nCheck similar courses from this link."
+  },
+  {
+    "objectID": "intro.html#what-are-some-examples-of-exploratory-data-analysis",
+    "href": "intro.html#what-are-some-examples-of-exploratory-data-analysis",
+    "title": "MEF BDA 503",
+    "section": "What are some examples of exploratory data analysis?",
+    "text": "What are some examples of exploratory data analysis?\nThese examples are from assignments and projects of previous years’ students.\n\nAutomotive sales data: Total sales per brand per year, domestic auto shares per brand, top sellers of 2019, Mercedes vs Volkswagen\nCredit card spending analysis: Credit Card and Debit Card Transaction Amount, Credit Card Transaction Amount by Sector, Credit Card and Debit Card Transaction Amount for Market\nBIST 30 stock analysis\nTurkish Super League analysis\nGlobal Terrorism Database analysis\n\nYou can find more examples in this post. For some short analyses you can check out #tidytuesday hashtag in Twitter and Github Repo (see this bonus also)."
+  },
+  {
+    "objectID": "intro.html#what-is-reproducibility",
+    "href": "intro.html#what-is-reproducibility",
+    "title": "MEF BDA 503",
+    "section": "What is reproducibility?",
+    "text": "What is reproducibility?\nIn simple terms, the ability to reproduce result and analysis without much effort.\nA fully reproducible analysis should include raw data and clear methodology (also, if possible, code) behind the analysis.\nThere are consequences if a study is not reproducible. Read more about reproducibility crisis here.\nSee a webinar here about how to create reproducible reports with R Markdown. We will learn basics of R Markdown as soon as possible and do similar stuff.\nAdditionally, if you can generalize your templates, you can reproduce the study for different data sets in the same topic. It can be financial reports for companies, weather reports for cities etc. See an example here about elections (in Turkish) where each city and county’s reports are generated using a single template."
+  },
+  {
+    "objectID": "intro.html#which-tools-are-we-going-to-use-programs",
+    "href": "intro.html#which-tools-are-we-going-to-use-programs",
+    "title": "MEF BDA 503",
+    "section": "Which tools are we going to use? (Programs)",
+    "text": "Which tools are we going to use? (Programs)\nDownload checklist is below. Everything is completely free.\n\nR Programming Language to code (we will also install packages)\nRStudio Desktop as IDE\npandoc for document conversion\nLaTeX for PDF documents (we will not cover LaTeX notation)\n\nAlternatively you can use tiny tex\n\nGithub Desktop for codebase updates (you can use alternatives)\n\nYou will need a Github account\n\nSlack for live communication (you can also use the web client)\n\nOptional and advanced\n\nDocker for containerization (if time permits)"
+  },
+  {
+    "objectID": "intro.html#which-tools-are-we-going-to-use-packages",
+    "href": "intro.html#which-tools-are-we-going-to-use-packages",
+    "title": "MEF BDA 503",
+    "section": "Which tools are we going to use? (Packages)",
+    "text": "Which tools are we going to use? (Packages)\nPackages are code collections which can be needed for general purpose or specific needs. You can also think of them as modules.\nR has many useful packages. Our course depends on several main packages and package collections.\n\ntidyverse is a very useful package collection\n\ndplyr for data manipulation\nggplot2 for data visualization\n\nRMarkdown for document creation\n\nWe will also use xaringan package for presentations.\nAlternatively you can use Quarto for both document creation and presentations. (Both your course page and this presentation are created with Quarto)\n\nshiny for interactive analysis\n\nPlus we will be using many other packages either as dependency (e.g. tibble) or as supporting packages (e.g. lubridate) during the course."
+  },
+  {
+    "objectID": "intro.html#packages-101---a-short-introduction",
+    "href": "intro.html#packages-101---a-short-introduction",
+    "title": "MEF BDA 503",
+    "section": "Packages 101 - A short introduction",
+    "text": "Packages 101 - A short introduction\nWe install packages to make them available for our use with install.packages command. You are effectively downloading the package. Remember, you need to install only once!\n\n\n\nOnce installed, we can make use of (load) packages with library command (You can also use require). Then we can use everything inside that package.\n\n\n\nAdvanced: There is an alternative way to use functions in packages. Once installed, you can directly refer to them using ::.\n\n\n\np.s: You can learn more about packages from this tutorial."
+  },
+  {
+    "objectID": "intro.html#datacamp-and-supplementary-online-learning",
+    "href": "intro.html#datacamp-and-supplementary-online-learning",
+    "title": "MEF BDA 503",
+    "section": "Datacamp and Supplementary Online Learning",
+    "text": "Datacamp and Supplementary Online Learning\nWe are going to make use of Datacamp courses throughout the semester.\nDatacamp for Education provides free access to Datacamp resources for 6 months. You are going to get your invitations. Datacamp usually charges monthly fees but you do not need to pay anything since you are a student of this course.\nSince this semester is completely online, we will rely more on online sources. You will have timed assignments on Datacamp but it will not affect your grade.\nOptionally you are encouraged to learn from other sources. A list will be given in a separate slide."
+  },
+  {
+    "objectID": "intro.html#github-github-classroom",
+    "href": "intro.html#github-github-classroom",
+    "title": "MEF BDA 503",
+    "section": "Github & Github Classroom",
+    "text": "Github & Github Classroom\nWe are going to use Github Classroom as the main assignment submission platform.\nAll students are going to have two repositories (where you will submit the code files) + Individual repository for their assignments + Group repository for their group assignments and group project\nInvitation links will be provided by the instructor to student email addresses.\nFirst assignment will be to set up your Github Pages. You can check the tutorial in the link (choose Project Site) but Github Classroom will handle the initial setup.\nDon’t forget to download Github Desktop. If you use Linux, try shiftkey releases.\nIMPORTANT (optional): It is highly recommended to get your Github Student Pack"
+  },
+  {
+    "objectID": "intro.html#markdown-and-r-markdown",
+    "href": "intro.html#markdown-and-r-markdown",
+    "title": "MEF BDA 503",
+    "section": "Markdown (and R Markdown)",
+    "text": "Markdown (and R Markdown)\nMarkdown is a special and minimal syntax “language” which is also used in R Markdown documents.\nAlthough there are some changes between different types of Markdown syntax Github’s guide is a good start. It is very quick and easy to learn (takes ~5 min to get the basics and you can always use a cheatsheet).\nHere are some markdown editors as playground: Stackedit, Dillinger, jbt\nR Markdown is essentially Markdown + R Code. You can start learning from here.\n\n\nImportant Update - Quarto (2022)\n\nIn July 2022, RStudio announced that they will change their name to Posit starting from November 2022. They are going to be more inclusive towards Python.\nThey announced Python Shiny (still in Alpha phase).\nThey also announced Quarto will supersede RMarkdown. Announcement came a little late, so there are no lecture notes about Quarto. However, a list of sources and quality guides will be included in a separate document.\nUltimately these updates are to your benefit. You will be able to integrate Python and R as seamlessly as possible. Also, some of what you learned in this class will be applicable to Python."
+  },
+  {
+    "objectID": "intro.html#setup-checklist",
+    "href": "intro.html#setup-checklist",
+    "title": "MEF BDA 503",
+    "section": "Setup Checklist",
+    "text": "Setup Checklist\nIt is actually not very complicated :) Here is a checklist to get you started.\n\nDownload required programs and make sure they are working.\nOpen a Github account.\nOpen a Slack account.\nWhen it comes, accept Datacamp invitation.\nWhen it comes, accept Github Classroom invitation."
+  },
+  {
+    "objectID": "intro.html#course-expectations",
+    "href": "intro.html#course-expectations",
+    "title": "MEF BDA 503",
+    "section": "Course Expectations",
+    "text": "Course Expectations\nMinimal learning expectations from this course are very clearly defined.\n\nFair understanding of data manipulation (using dplyr) and data visualization (using ggplot2).\nAbility to analyze data and communicate findings with clear and coherent reporting (using rmarkdown).\nAbility to create interactive analysis systems (using shiny).\nAbility to deploy and publish (using Github Pages and shinyapps.io).\nBasic understanding of Python & R interoperability.\n\nIt is up to the student to extend their learning experience. Both R and the data science field have much to offer. For instance, there are topics like cloud computing, package making/management, containerization, advanced modelling, process automation. There are also numerous interesting R packages making analytics life easier."
+  },
+  {
+    "objectID": "intro.html#week-course-schedule-1",
+    "href": "intro.html#week-course-schedule-1",
+    "title": "MEF BDA 503",
+    "section": "7-week Course Schedule",
+    "text": "7-week Course Schedule\nWe have lectures every second Wednesday between 18:30-21:30. Times may vary occasionally.\nTentative Schedule\nSchedule may change with progress. We can have some bonus material to cover.\nWeek 1: Setup (rmarkdown) and Base R\nWeeks 2-3: Data Processing, Visualization and Reporting (dplyr + ggplot2)\nWeek 4: Interactive Analysis (shiny) and Packaging\nWeek 5: Data Processing, Visualization and Reporting - 2\nWeek 6: R & Python Interoperability\nWeek 7: Recap, Presentations and Final (Take Home)"
+  },
+  {
+    "objectID": "intro.html#course-medium-online-lectures",
+    "href": "intro.html#course-medium-online-lectures",
+    "title": "MEF BDA 503",
+    "section": "Course Medium: Online Lectures",
+    "text": "Course Medium: Online Lectures\n\nAt start, instructor will deliver a short lecture (15-30 mins) either live or from a recorded video.\nMost communication will be on Slack (and perhaps Google Meet 1-to-1) for “live support”. It means questions of any kind can be asked on Slack.\nThere might be “tasks” at each lecture to be finished within lecture hours. Most of the time it will be self-learning from a source and exercises to be finished.\nMost 3-hour lectures will be block, ending at 21:30. Since most of it will be spent with self-learning, students can arrange their own breaks.\nNo regular office hours. We will use Slack.\nWe may have guests from both academia and professional domains about data science related practices in real life problems."
+  },
+  {
+    "objectID": "intro.html#grading",
+    "href": "intro.html#grading",
+    "title": "MEF BDA 503",
+    "section": "Grading",
+    "text": "Grading\n\nIn-class exercises & Homework: 30%\n\nThere will be a number of graded exercises and homeworks. No individual weights, they will be determined as a whole\nAll homeworks should be on your public Github Pages and explicitly linked from your main Progress Journal. Otherwise, they will not be graded.\n\nGroup Project: 30%\nTake home final: 40%\nBonuses!"
+  },
+  {
+    "objectID": "intro.html#groups-and-group-project",
+    "href": "intro.html#groups-and-group-project",
+    "title": "MEF BDA 503",
+    "section": "Groups and Group Project",
+    "text": "Groups and Group Project\n\nAs a group project you will be asked to do a complete data analysis on a relevant real-life data set. Check previous examples.\nGroups should be about 4 to 5 students. Any fewer or more will not be allowed.\nYou need to form your groups next lecture, 18:30. For those without a group or groups without members, there will be a random assignment.\nOnce settled, you cannot change your group under any circumstances.\nThere will be group assignments as well."
+  },
+  {
+    "objectID": "intro.html#external-resources-streams",
+    "href": "intro.html#external-resources-streams",
+    "title": "MEF BDA 503",
+    "section": "External Resources (Streams)",
+    "text": "External Resources (Streams)\nThere are lots of fantastic resources out there. I suggest signing up for R newsletters and following people on Twitter. Static sources are on course webpage.\n\nRViews Newsletter\nr-bloggers\nR Weekly\nTidy Tuesday Hashtag\nTidy Explained\nOne R Tip a Day\n\nplus lots of people to follow on Twitter."
+  },
+  {
+    "objectID": "intro.html#course-ethics",
+    "href": "intro.html#course-ethics",
+    "title": "MEF BDA 503",
+    "section": "Course “Ethics”",
+    "text": "Course “Ethics”\nThese are very simple rules to follow to ensure a fair and productive course experience.\n\nPlease do collaborate with your classmates.\nPlease do check internet and other sources for solutions. You may occasionally come across exact solutions to some homeworks and exercises but it is up to you to learn or simply paste and pass.\nPlease do not blatantly copy paste stuff and always provide references to your sources (with links). It is completely OK to “oh I found this amazing plotting code on this link and using it for my analysis”. It is actually very desirable.\n\nBut it is not OK to “Here is a complete copy paste of some guy’s analysis from Kaggle as my assignment”. It is a direct F and a report to the department.\n\nPlease do not submit the same as your classmate verbatim. Write your own code even if you peek."
+  },
+  {
+    "objectID": "intro.html#summary",
+    "href": "intro.html#summary",
+    "title": "MEF BDA 503",
+    "section": "Summary",
+    "text": "Summary\n\nThis course is about end-to-end analytics and reproducibility.\nComplete your setup (install programs and packages, sign up for services -remember, everything is free!-).\nBuild your Github Pages webpage. Learn how to push to your repository.\nFinish your first assignment by next week.\nDetermine your group and email to instructor (group name + members) as soon as possible."
+  },
+  {
+    "objectID": "pjlist.html",
+    "href": "pjlist.html",
+    "title": "Progress Journals",
+    "section": "",
+    "text": "Coming soon…"
   }
 ]

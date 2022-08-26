@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: pjlist.qmd
+        text: Progress Journals
+      - href: https://berkorbay.github.io/book-of-eda/
+        text: Book of EDA
 
 format:
   html:
