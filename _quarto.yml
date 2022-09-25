@@ -12,6 +12,12 @@ website:
         text: Progress Journals
       - href: https://berkorbay.github.io/book-of-eda/
         text: Book of EDA
+      - href: projects.qmd
+        text: Project Guidelines
+      - href: about.qmd
+        text: About
+      - href: https://mef-bda503.github.io/
+        text: Course Main Page
 
 format:
   html:

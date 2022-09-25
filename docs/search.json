@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About BDA 503",
     "section": "",
-    "text": "About this site"
+    "text": "Course Instructor of Fall 2022: Berk Orbay\nClick here for more information."
   },
   {
     "objectID": "rintro.html#tentative-schedule",
@@ -186,7 +186,7 @@
     "href": "intro.html#what-is-this-course-about",
     "title": "MEF BDA 503",
     "section": "What is this course about?",
-    "text": "What is this course about?\nThis course has a very simple objective: To teach you the ropes of exploratory data analysis pipeline.\nMainly the stages of the pipeline are,\n\nImporting raw data\nPreprocessing data to prepare for analysis\nExploring and analyzing data to find valuable information\nCommunicating findings with verbal reporting, visualization and interactive tools\nMaking everything reproducible\n\nCheck similar courses from this link."
+    "text": "What is this course about?\nThis course has a very simple objective: To teach you the ropes of exploratory data analysis pipeline.\nMainly the stages of the pipeline are\n\nImporting raw data\nPreprocessing data to prepare for analysis\nExploring and analyzing data to find valuable information\nCommunicating findings with verbal reporting, visualization and interactive tools\nMaking everything reproducible\n\nCheck similar courses from this link."
   },
   {
     "objectID": "intro.html#what-are-some-examples-of-exploratory-data-analysis",

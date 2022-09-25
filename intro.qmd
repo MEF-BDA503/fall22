@@ -14,7 +14,7 @@ format:
 
 This course has a very simple objective: To teach you the ropes of exploratory data analysis pipeline. 
 
-Mainly the stages of the pipeline are,
+Mainly the stages of the pipeline are
 
 + Importing raw data
 + Preprocessing data to prepare for analysis

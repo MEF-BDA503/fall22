@@ -1,5 +1,12 @@
 ---
-title: "About"
+title: "About BDA 503"
 ---
 
-About this site
+**Course Name:** Data Analytics Essentials  
+**Course Code:** BDA 503  
+**Program**: [Big Data Analytics Grad Program](https://bda.mef.edu.tr/en#gsc.tab=0)  
+**University**: [MEF University](https://www.mef.edu.tr/en#gsc.tab=0)  
+
+**Course Instructor of Fall 2022:** [Berk Orbay](https://www.linkedin.com/in/berkorbay/)  
+
+Click [here](https://mef-bda503.github.io/about.html) for more information.
