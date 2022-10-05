@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Main Page
       - href: pjlist.qmd
         text: Progress Journals
       - href: https://berkorbay.github.io/book-of-eda/
