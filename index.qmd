@@ -5,40 +5,41 @@ toc: false
 
 # Lecture 1 (Oct 5, 2022)
 
-- [Introduction to BDA 503](./intro.html)
-- [Base R Notes](https://berkorbay.github.io/book-of-eda/base-r.html) 
-- [Quarto - Getting Started](https://quarto.org/docs/get-started/)
-- [RMarkdown - Getting Started](https://rmarkdown.rstudio.com/lesson-1.html)
+-   [Introduction to BDA 503](./intro.html)
+-   [Base R Notes](https://berkorbay.github.io/book-of-eda/base-r.html)
+-   [Quarto - Getting Started](https://quarto.org/docs/get-started/)
+-   [RMarkdown - Getting Started](https://rmarkdown.rstudio.com/lesson-1.html)
+-   [Intro to R Presentation (Archive)](https://pjournal.github.io/docs/r_intro/2109/#1)
 
 #### Assignments
 
-- **RMarkdown/Quarto Assignment (Deadline Oct 19, 18:30):**
-    This is your first assignment.
+-   **RMarkdown/Quarto Assignment (Deadline Oct 19, 18:30):** This is your first assignment.
 
-    1. Prepare an RMarkdown (\.Rmd) or Quarto (\.qmd) document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Plus, add your Linkedin account link.
-    2. Watch some UseR-2022 videos ([Main Link](https://user2022.r-project.org/program/overview/) - [Recordings Link](https://www.youtube.com/c/useRConference_global/playlists)) and write one of them down on your RMarkdown/Quarto document. Alternatively you can check [RStudio Global 2022](https://www.rstudio.com/conference/2022/2022-conf-talks/) conference talks.
-    3. Find **3 R posts relevant to your interests** and describe them. Get the html output and put it in your progress journal repository. 
-    4. Provide a link from your Progress Journal page. 
+    1.  Prepare an RMarkdown (.Rmd) or Quarto (.qmd) document. Introduce yourself in one paragraph (Your name surname, your work, your data interests and how you (plan to) use data science skills in your current/future work). Plus, add your Linkedin account link.
+    2.  Watch some UseR-2022 videos ([Main Link](https://user2022.r-project.org/program/overview/) - [Recordings Link](https://www.youtube.com/c/useRConference_global/playlists)) and write one of them down on your RMarkdown/Quarto document. Alternatively you can check [RStudio Global 2022](https://www.rstudio.com/conference/2022/2022-conf-talks/) conference talks.
+    3.  Find **3 R posts relevant to your interests** and describe them. Get the html output and put it in your progress journal repository.
+    4.  Provide a link from your Progress Journal page.
 
     Check examples from class of 2021: [Emirhan Şahin](https://pjournal.github.io/mef05-liophire/Task1_RMarkDown.nb.html), [Mine Kara](https://pjournal.github.io/mef05-MineKara95/R_Markdown_Homework.html) and [Murat Can Taşar](https://pjournal.github.io/mef05-mctasar/week1.html).
 
-- **Project Groups (Deadline Nov 1, 17:30)**: 
-    1. Form your project groups of either 4 or 5 people _(not fewer, not more)_. You may write to your instructor via Slack or email to find you a group or find a student for your group.
-    2. Pick one of the group names below and email the instructor with your group name and members _(first come first served)_. Remember, once set, you cannot change your group name or members. 
-        1. Western Shore
-        1. Peace and Trust
-        1. Silver Linings
-        1. Whole Lotta Love
-        1. Time and Space
-        1. Ramble On
-        1. Summer Moon
-        1. Yellow Desert
-        1. Honey Drip
-        1. Rain Song
+-   **Project Groups (Deadline Nov 1, 17:30)**:
 
-    _Unassigned students and names will be randomly assigned by the instructor after the deadline._
+    1.  Form your project groups of either 4 or 5 people *(not fewer, not more)*. You may write to your instructor via Slack or email to find you a group or find a student for your group.
+    2.  Pick one of the group names below and email the instructor with your group name and members *(first come first served)*. Remember, once set, you cannot change your group name or members.
+        1.  Western Shore
+        2.  Peace and Trust
+        3.  Silver Linings
+        4.  Whole Lotta Love
+        5.  Time and Space
+        6.  Ramble On
+        7.  Summer Moon
+        8.  Yellow Desert
+        9.  Honey Drip
+        10. Rain Song
 
----
+    *Unassigned students and names will be randomly assigned by the instructor after the deadline.*
+
+------------------------------------------------------------------------
 
 # Week 0
 
@@ -46,16 +47,11 @@ This course benefits from DataCamp for the Classroom program. See details [here]
 
 Some light reading (blog posts)
 
-- [About recent developments with RStudio (Posit) and R's future (2022)](https://medium.com/berk-orbay/convergence-of-data-science-languages-ff2214665f3)
-- [Student projects of previous years (2020)](https://medium.com/berk-orbay/student-data-analysis-projects-with-r-729a8529d5a8)
-- [How this course is structured in previous years (2018)](https://medium.com/@berk.orbay/how-to-teach-an-awesome-data-analysis-course-922f5e5651c0)
-- [Instructor's view on R (2017)](https://medium.com/yes-r-can/why-r-stats-is-the-best-2c09d77de25b)
+-   [About recent developments with RStudio (Posit) and R's future (2022)](https://medium.com/berk-orbay/convergence-of-data-science-languages-ff2214665f3)
+-   [Student projects of previous years (2020)](https://medium.com/berk-orbay/student-data-analysis-projects-with-r-729a8529d5a8)
+-   [How this course is structured in previous years (2018)](https://medium.com/@berk.orbay/how-to-teach-an-awesome-data-analysis-course-922f5e5651c0)
+-   [Instructor's view on R (2017)](https://medium.com/yes-r-can/why-r-stats-is-the-best-2c09d77de25b)
 
 This semester course webpage went under a significant refurbishment. Course archive is in another repository.
 
-- [Course Archive](https://mef-bda503.github.io/archive/)
-
-
-
-
-
+-   [Course Archive](https://mef-bda503.github.io/archive/)
