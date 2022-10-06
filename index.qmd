@@ -5,11 +5,12 @@ toc: false
 
 # Lecture 1 (Oct 5, 2022)
 
--   [Introduction to BDA 503](./intro.html)
--   [Base R Notes](https://berkorbay.github.io/book-of-eda/base-r.html)
--   [Quarto - Getting Started](https://quarto.org/docs/get-started/)
--   [RMarkdown - Getting Started](https://rmarkdown.rstudio.com/lesson-1.html)
--   [Intro to R Presentation (Archive)](https://pjournal.github.io/docs/r_intro/2109/#1)
+- [Introduction to BDA 503](./intro.html)
+- [Base R Notes](https://berkorbay.github.io/book-of-eda/base-r.html)
+- [Base R in Detail Notes](https://berkorbay.github.io/book-of-eda/base-r-in-detail.html)
+- [Quarto - Getting Started](https://quarto.org/docs/get-started/)
+- [RMarkdown - Getting Started](https://rmarkdown.rstudio.com/lesson-1.html)
+- [Intro to R Presentation (Archive)](https://pjournal.github.io/docs/r_intro/2109/#1)
 
 #### Assignments
 
