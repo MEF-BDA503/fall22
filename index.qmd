@@ -3,6 +3,18 @@ title: "BDA 503 Fall 2022"
 toc: false
 ---
 
+# Lecture 2 (Oct 19, 2022)
+
+- [Introduction to dplyr](https://berkorbay.github.io/book-of-eda/dplyr.html)
+- *Supplementary resources*
+    - [dplyr Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-transformation.pdf)
+    - [Book: R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham & Garrett Grolemund
+    - [dplyr with Election Data](https://pjournal.github.io/files/dplyr_elections.html)
+- **In-class assignment (Deadline: 2022-10-19 21:30)** 
+    1. Have `nycflights13` R package [ready](https://datatofish.com/install-package-r/). 
+    2. _(data tasks to be announced)_
+    3. Put analysis and code on your Progress Journal as another page.
+
 # Lecture 1 (Oct 5, 2022)
 
 - [Introduction to BDA 503](./intro.html)
