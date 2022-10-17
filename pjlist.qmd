@@ -7,7 +7,7 @@ title: "Progress Journals"
 _Ordered by first name_
 
 - [Arzu Alpan](https://pjournal.github.io/mef06-alpanarzu/)
-- [Bengü Üzmez (missing)](https://pjournal.github.io/)
+- [Bengü Üzmez](https://pjournal.github.io/mef06-uzmezb)
 - [Berk Özcan](https://pjournal.github.io/mef06-berkozzcan/)
 - [Buğra Ayral (missing)](https://pjournal.github.io/)
 - [Canseza Avağ Erdurak](https://pjournal.github.io/mef06-avagcanseza/)
