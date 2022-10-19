@@ -10,9 +10,9 @@ toc: false
     - [dplyr Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-transformation.pdf)
     - [Book: R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham & Garrett Grolemund
     - [dplyr with Election Data](https://pjournal.github.io/files/dplyr_elections.html)
-- **In-class assignment (Deadline: 2022-10-19 21:30)** 
+- **In-class assignment (Deadline: ~~2022-10-19 21:30~~ 2022-10-21 23:59)** 
     1. Have `nycflights13` R package [ready](https://datatofish.com/install-package-r/). 
-    2. _(data tasks to be announced)_
+    2. Using only the `planes` data set prepare two analyses. Use as many commands of dplyr as possible.
     3. Put analysis and code on your Progress Journal as another page.
 
 # Lecture 1 (Oct 5, 2022)
