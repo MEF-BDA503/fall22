@@ -3,6 +3,36 @@ title: "BDA 503 Fall 2022"
 toc: false
 ---
 
+# Lecture 3 (Nov 2, 2022)
+
+**Guest Lecture**: [Onur Soydan](https://www.linkedin.com/in/onur-soydan-a55aa282/) - Demand Forecasting and Strategic Planning Manager at Uludağ Enerji.
+
+- [Introduction to ggplot2](https://berkorbay.github.io/book-of-eda/ggplot2.html)
+- *Supplementary resources*
+    - [ggplot2 Cheat Sheet](https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf)
+
+
+**Group Assignment: Startup Deals (Deadline: 2022-10-16 18:30)**
+
+Your data set is a list of startups getting investments from a variety of domestic and international investors. Data is gathered from [KPMG](https://home.kpmg/tr/tr/home.html) and [212](https://212.vc/)'s [Turkish Startup Investments Review 2021](https://assets.kpmg/content/dam/kpmg/tr/pdf/2022/03/turkish-startup-investments-review-2021.pdf) report. 
+
+Your assignment is to tell the story of Turkish startup investments in 2021 using dplyr, ggplot2 and Quarto/Rmarkdown. Here are the rules and guidelines. 
+
+- Download [Startup Deals 2021 Data](https://github.com/berkorbay/datasets/raw/master/startup_deals/startup_deals_2021.xlsx)
+- Get the data in using `readxl::read_excel()` function ([see tutorial](https://readxl.tidyverse.org/)).
+- Prepare an Exploratory Data Analysis (EDA) and put that analysis in your "Group Progress Journals (GPJ)"
+- Your EDA is graded based on the quality of your findings and the way you present them. 
+- Your report should start with "Key Takeaways" (you need to put the exact title) section and it should include 3 to 5 bullets of short sentences about your most striking findings.
+- You should include at least one plot using ggplot2.
+- Your code should be visible and add the link to the data set (reproducibility). You may make code sections expandable in order to improve readability.
+- Add it on your Group Progress Journal. Your report should be reachable from your GPJ.
+
+You are welcome to organize the rest of your report. You are free to determine the theme. For instance, you may focus on e-commerce investments only. You do not need to be comprehensive.
+
+**BONUS**: Prepare a blog post for Medium without code and explain your analysis in two to three paragraphs. 
+
+------------------------------------------------------------------------
+
 # Lecture 2 (Oct 19, 2022)
 
 - [Introduction to dplyr](https://berkorbay.github.io/book-of-eda/dplyr.html)
@@ -14,6 +44,8 @@ toc: false
     1. Have `nycflights13` R package [ready](https://datatofish.com/install-package-r/). 
     2. Using only the `planes` data set prepare two analyses. Use as many commands of dplyr as possible.
     3. Put analysis and code on your Progress Journal as another page.
+
+------------------------------------------------------------------------
 
 # Lecture 1 (Oct 5, 2022)
 
