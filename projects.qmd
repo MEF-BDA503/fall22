@@ -4,7 +4,7 @@ title: "Projects and Project Guidelines"
 
 # Phases and Deadlines
 
-- Project Proposal (~Nov 2, 23:59~ Nov 6, 23:59)
+- Project Proposal (~~Nov 2, 23:59~~ Nov 6, 23:59)
 - Preparation of the preprocessed data (Nov 16, 23:59)
 - Exploratory Data Analysis (Nov 30, 23:59)
 - Rehearsal (Dec 14, 23:59)
