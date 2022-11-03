@@ -4,11 +4,11 @@ title: "Projects and Project Guidelines"
 
 # Phases and Deadlines
 
-- Project Proposal (Nov 2, 23:59)
-- Preparation of the preprocessed data (TBA - To Be Announced)
-- Exploratory Data Analysis (TBA)
-- Rehearsal (TBA)
-- Blog Post & Teaser (TBA)
+- Project Proposal (~Nov 2, 23:59~ Nov 6, 23:59)
+- Preparation of the preprocessed data (Nov 16, 23:59)
+- Exploratory Data Analysis (Nov 30, 23:59)
+- Rehearsal (Dec 14, 23:59)
+- Blog Post & Teaser (Dec 14, 23:59)
 - Final Project and Presentation (TBA)
 
 Final deadline is strict, but you will be able to revise your final project document.

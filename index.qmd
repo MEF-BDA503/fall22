@@ -12,7 +12,7 @@ toc: false
     - [ggplot2 Cheat Sheet](https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf)
 
 
-**Group Assignment: Startup Deals (Deadline: 2022-10-16 18:30)**
+**Group Assignment: Startup Deals (Deadline: 2022-11-16 18:30)**
 
 Your data set is a list of startups getting investments from a variety of domestic and international investors. Data is gathered from [KPMG](https://home.kpmg/tr/tr/home.html) and [212](https://212.vc/)'s [Turkish Startup Investments Review 2021](https://assets.kpmg/content/dam/kpmg/tr/pdf/2022/03/turkish-startup-investments-review-2021.pdf) report. 
 

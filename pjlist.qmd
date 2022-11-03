@@ -2,6 +2,17 @@
 title: "Progress Journals"
 ---
 
+### Group Progress Journals
+
+See [here](./projects) for group project details.
+
+- [Ramble On](https://pjournal.github.io/mef06g-ramble-on/) (_Theme: Education, Culture, Sport and Tourism_)
+- [Peace and Trust](https://pjournal.github.io/mef06g-peace-trust/) (_Theme: Agriculture_)
+- [Honey Drip](https://pjournal.github.io/mef06g-honey-drip/) (_Theme: Construction and Housing_)
+- [Summer Moon](https://pjournal.github.io/mef06g-summermoon/) (_Theme: Population and Demography_)
+- [Time and Space](https://pjournal.github.io/mef06g-time-and-space/) (_Theme: Industry_)
+
+
 ### Student Progress Journals
 
 _Ordered by first name_
@@ -24,8 +35,8 @@ _Ordered by first name_
 - [Mehmet Kemal Ucuzcu](https://pjournal.github.io/mef06-mekucz/)
 - [Muhammed Ali Gökmen](https://pjournal.github.io/mef06-ali-gokmen/)
 - [Nihan Cinisli Köksoy](https://pjournal.github.io/mef06-nihanck/)
-- [Orhun Doğan (missing)](https://pjournal.github.io/)
-- [Oytun Güngör (missing)](https://pjournal.github.io/)
+- [Orhun Doğan](https://pjournal.github.io/mef06-OrhunDo/)
+- [Oytun Güngör](https://pjournal.github.io/mef06-Oytungungor/)
 - [Sabri Demirdal](https://pjournal.github.io/mef06-aktas8154/)
 - [Tayyip Sinan Ocaktan](https://pjournal.github.io/mef06-ocaktans/)
 - [Uğur Özata](https://pjournal.github.io/mef06-ugemir/)
