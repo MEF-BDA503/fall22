@@ -3,6 +3,42 @@ title: "BDA 503 Fall 2022"
 toc: false
 ---
 
+# Lecture 4 (Nov 16, 2022)
+
+::: {.callout-tip appearance="simple"} 
+**Guest Lecture**: [Burak Balta](https://www.linkedin.com/in/burak-balta/) - Partner & Lead Software Engineer at Sufle
+:::
+
+This week's lecture is focused on **Shiny**, an R package to develop interactive dashboards and web pages. Good news! Shiny became recently available for [Python](https://shiny.rstudio.com/py/) (alpha version), so what you learn here is transferrable to Python.
+
+- [Introduction to Shiny (official tutorial)](https://shiny.rstudio.com/tutorial/)
+    - [Showcase Gallery](https://shiny.rstudio.com/gallery/)
+    - [Cheat Sheet](https://shiny.rstudio.com/articles/cheatsheet.html)
+    - [shinyapps.io](https://shinyapps.io)
+- Shiny in-class exercise [starter code](https://gist.github.com/berkorbay/5793188b7ebfe013ce64703179f9aa01).
+
+:::{.callout-info appearance="simple"}
+**Additional resources**
+
++ [Mastering Shiny](https://mastering-shiny.org/)  
++ [`golem` R package](https://thinkr-open.github.io/golem/)
++ [Engineering Shiny (advanced)](https://engineering-shiny.org/)
++ [`shinydashboard` R package](https://rstudio.github.io/shinydashboard/) for additional dashboard capabilities.
++ [`shinyMobile` R package](https://rinterface.github.io/shinyMobile/) for mobile app-like capabilities.
+:::
+
+:::{.callout-caution appearance="simple"}
+**Shiny Assignment - Foreign Students by Nationality (Deadline: Nov 30, 18:30)**
+
+In this assignment you are asked to prepare a Shiny dashboard using foreign student nationality data of universities taken from Higher Education Council's (YÖK) statistics portal.
+
++ Download raw data ([link](https://github.com/berkorbay/datasets/raw/master/foreign_students/foreign_students_by_nationality_2021_2022.xlsx)).
++ Preprocess data (converting it to RDS format is recommended) to a workable data frame or tibble. You may work together .
++ Prepare a Shiny app as a single `app.R` file using the data add it to your progress journals under a separate folder with . 
++ Deploy your app to [shinyapps.io](https://shinyapps.io) (use free tier only). (see [documentation link](https://docs.rstudio.com/shinyapps.io/index.html))
++ Add a page to your progress journals with a short introduction of your assignment, a link to shinyapps url, a command to run your app locally. Example code snippet `shiny::runGitHub("BOUN-IE48A/boun-ie48a.github.io",subdir="files/shinyExample/")`
+:::
+
 # Lecture 3 (Nov 2, 2022)
 
 **Guest Lecture**: [Onur Soydan](https://www.linkedin.com/in/onur-soydan-a55aa282/) - Demand Forecasting and Strategic Planning Manager at Uludağ Enerji.
