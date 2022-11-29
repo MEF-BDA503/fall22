@@ -3,6 +3,19 @@ title: "BDA 503 Fall 2022"
 toc: false
 ---
 
+# Lecture 5 (Nov 30, 2022)
+
+::: {.callout-tip appearance="simple"} 
+**Guest Lecture**: [İhsancan Özpoyraz](https://www.linkedin.com/in/ihsancan-ozpoyraz/) - Expert Business Consultant at KoçDigital
+:::
+
+This week's lecture is more about some intermediate topics about data processing/manipulation. We will mainly learn about joins, long/wide tables. In addition, if time permits, some data parsing from web site sources.
+
+- [dplyr joins](https://stat545.com/join-cheatsheet.html)
+    - [Mini live lecture](https://pjournal.github.io/boun-ie48a/files/joins_tutorial_live_lecture.html)
+- [Brief tutorial on pivot_longer/pivot_wider](https://pjournal.github.io/boun-ie48a/files/short_tutorial_on_pivot_wider_longer.html)  
+- [rvest mini tutorial](https://pjournal.github.io/boun-ie48a/files/rvest_mini_tutorial.html)
+
 # Lecture 4 (Nov 16, 2022)
 
 ::: {.callout-tip appearance="simple"} 
