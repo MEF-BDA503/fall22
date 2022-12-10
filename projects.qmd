@@ -116,7 +116,7 @@ Before giving your report a final shape, prepare an EDA report. In this document
 
 - Try to stick to first deadline so in any case you will have some slack to reevaluate.
 
-### Presentation
+### Presentation
 
 - Upload your presentation to your GPJ. Consider going {xaringan}. Adding a pdf version is recommended.
 
