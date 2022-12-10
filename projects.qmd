@@ -7,8 +7,8 @@ title: "Projects and Project Guidelines"
 - Project Proposal (~~Nov 2, 23:59~~ Nov 6, 23:59)
 - Preparation of the preprocessed data (~~Nov 16~~ Nov 23, 23:59)
 - Exploratory Data Analysis (Nov 30, 23:59)
-- Rehearsal (Dec 14, 23:59)
-- Blog Post & Teaser (Dec 14, 23:59)
+- Rehearsal (~~Dec 14~~ Dec 20, 23:59)
+- Blog Post & Teaser (~~Dec 14~~ Dec 20, 23:59)
 - Final Project and Presentation (Dec 28, 18:30)
 
 Final deadline is strict, but you will be able to revise your final project document.
@@ -122,13 +122,15 @@ Before giving your report a final shape, prepare an EDA report. In this document
 
 - State clearly who the group members are and either give a link to your progress journals or Linkedin profiles.
 
-- Important! Presentation Rehearsals You need to submit a rehearsal video by *TBA*. 10% of your project points will come from rehearsal videos. There are two prerequisites. It should be under 15 minutes (strict) and it should cover most of your actual presentation. This is a rehearsal so you don’t need to care much about perfection. Try to make it look good but do not spend a lot of time on retakes. Send videos directly to my email. It is not required to publish them on your GPJ (but it is allowed if you want to).
+- **Important! Presentation Rehearsals** You need to submit a rehearsal video by December 20, 2022. 10% of your project points will come from rehearsal videos. There are two prerequisites. It should be under 15 minutes (strict) and it should cover most of your actual presentation. This is a rehearsal so you don’t need to care much about perfection. Try to make it look good but do not spend a lot of time on retakes. Send videos directly to my email. It is not required to publish them on your GPJ (but it is allowed if you want to).
 
 ### Blog Post (Medium)
 
 - Briefly describe your project in a blog post fashion. Do not include code, just describe your project clearly and give a link to your analysis and your GPJ main page. Also provide a link to your blog post in your GPJs.
 
-- Details to be announced
+- Select one representative in each group to submit to [EDA Journal](https://medium.com/eda-journal), "official" blog of BDA 503. Send an email to your instructor with your group name and the medium username of the representative.
+
+- Submit the article to EDA Journal ([help](https://help.medium.com/hc/en-us/articles/213904978-Add-a-draft-or-post-to-publication)). Your instructor will review and publish it. Then you may add the link to your GPH.
 
 ### Teaser
 
