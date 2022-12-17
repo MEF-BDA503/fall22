@@ -20,6 +20,18 @@ This week's lecture is about introduction to Operations Research and, if time pe
 - [Machine Learning Part I](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml.html)  
 - [Machine Learning Part II](https://mef-bda503.github.io/archive/fall17/files/intro_to_ml_2.html)
 
+:::{.callout-caution appearance="simple"}
+**OR Assignment - Examine a Case (Deadline: Dec 30, 23:59)**
+
+In this individual assignment you are asked to choose a real life case study solved with Operations Research and briefly describe it with your own words.
+
+- Select a case study from [this list](https://berkorbay.notion.site/OR-Case-Studies-469ef48cb0bc478b855e4f13a7913f6b) or another source.
+- Write a descriptive summary of the business case, problem, how it is solved and the benefits
+- Give proper reference (include link and title) to the original case study source.
+- Some additional sources
+    - [Operations Research in Practice — Interesting Case Studies](https://medium.com/berk-orbay/operations-research-in-practice-interesting-case-studies-e47272592fb0)
+    - [An Ode to Operations Research and the Future](https://medium.com/berk-orbay/an-ode-to-operations-research-and-the-future-75744509425a)
+:::
 
 # Lecture 5 (Nov 30, 2022)
 

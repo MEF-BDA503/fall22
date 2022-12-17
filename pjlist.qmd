@@ -8,10 +8,9 @@ See [here](./projects) for group project details.
 
 - [Ramble On](https://pjournal.github.io/mef06g-ramble-on/) (_Theme: Education, Culture, Sport and Tourism_)
 - [Peace and Trust](https://pjournal.github.io/mef06g-peace-trust/) (_Theme: Agriculture_)
+- [Time and Space](https://pjournal.github.io/mef06g-time-and-space/) (_Theme: Industry_)
 - [Honey Drip](https://pjournal.github.io/mef06g-honey-drip/) (_Theme: Construction and Housing_)
 - [Summer Moon](https://pjournal.github.io/mef06g-summermoon/) (_Theme: Population and Demography_)
-- [Time and Space](https://pjournal.github.io/mef06g-time-and-space/) (_Theme: Industry_)
-
 
 ### Student Progress Journals
 
